@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.h": "c",
+			"18f26k22.h": "c",
+			"adc.h": "c",
+			"system.h": "c",
+			"relay.h": "c",
+			"hardware.h": "c",
+			"scheduler.h": "c",
+			"math.h": "c",
+			"stdlib.h": "c",
+			"stddef.h": "c"
+		},
+		"C_Cpp.autocompleteAddParentheses": true
+	}
+}

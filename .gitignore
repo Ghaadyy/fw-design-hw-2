@@ -1,0 +1,5 @@
+output/
+release/
+
+# proteus workspace files
+*.workspace
