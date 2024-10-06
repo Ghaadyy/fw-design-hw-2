@@ -4,3 +4,6 @@ release/
 # proteus workspace files
 *.workspace
 Project\ Backups/
+
+# CCS project file
+*.ccspjt
