@@ -42,7 +42,7 @@ enabled=0
 chip=1
 D1=
 V1=
-buildcount=58
+buildcount=60
 
 [main.c]
 Type=4
@@ -60,7 +60,7 @@ Fixed=
 
 [Opened Files]
 1=main.c
-t1=1
+t1=45
 Count=2
 2=main.h
 t2=1
@@ -99,6 +99,6 @@ D4_L1=[74081]Project Opened.
 [Units]
 Count=3
 1=main
-2=hardware
-3=system
+2=..\..\..\..\..\..\Firmware Design\fw-design-hw-2\ex4\Firmware\src\hardware
+3=..\..\..\..\..\..\Firmware Design\fw-design-hw-2\ex4\Firmware\src\system
 Link=1
